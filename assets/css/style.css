@@ -284,10 +284,6 @@ header a {
   .iframe {
     width: 400px;
     height: 400px;
-    display: inline-block;
-    vertical-align: top;
-    text-align: left;
-    margin: 30px 0 0 60px;
   }
 
   .contact h3 {
@@ -306,3 +302,4 @@ header a {
   .contact a {
     color: #fce138;
   }
+
